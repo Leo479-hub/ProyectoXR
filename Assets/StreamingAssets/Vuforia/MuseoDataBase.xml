@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="figura_cantaro" size="10.000000 10.000000" />
+    <ImageTarget name="figura_vasija" size="10.000000 7.871287" />
+    <ImageTarget name="figura_chimu" size="10.000000 10.760960" />
+  </Tracking>
+</QCARConfig>
