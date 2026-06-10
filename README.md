@@ -1,4 +1,3 @@
-# ProyectoXR
 # Museum Guide AR
 
 **Museum Guide AR** es un proyecto universitario desarrollado como parte del curso de Realidad Aumentada, con el propósito de acercar el patrimonio cultural peruano a los usuarios a través de una experiencia educativa e interactiva.
