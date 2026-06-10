@@ -1,6 +1,6 @@
 # Museum Guide AR
 
-**Museum Guide AR** es un proyecto universitario desarrollado como parte del curso de Realidad Aumentada, con el propósito de acercar el patrimonio cultural peruano a los usuarios a través de una experiencia educativa e interactiva.
+**Museum Guide AR** es un proyecto universitario desarrollado como parte del curso de Realidad Virtual y Aumentada, con el propósito de acercar el patrimonio cultural peruano a los usuarios a través de una experiencia educativa e interactiva.
 
 La aplicación utiliza Unity y Vuforia para reconocer marcadores físicos y desplegar modelos 3D de piezas arqueológicas representativas de distintas culturas del Perú. Cada pieza está acompañada de información visual y audios descriptivos que permiten conocer su contexto histórico y su valor cultural de una manera más dinámica y accesible.
 
