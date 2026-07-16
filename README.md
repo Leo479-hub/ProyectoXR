@@ -218,14 +218,22 @@ git clone https://github.com/Leo479-hub/ProyectoXR.git
   <img src="Docs/capturas/HIERARCHY-FINAL.png" width="300">
 </p>
 
+<h3> FPS Obtenidos </h3>
+
+<p align="center">
+  <img src="Docs/capturas/FPS_OBTENIDOS.png" width="400">
+</p>
+
 ---
 
 # Integrantes
 
-- Saldaña Lobatón Jacques
-- Taipe Monge Daniela
-- Huarancca Ayala David Asaf
-- Rau Bravo Leonardo Cesar
+| Integrante | Rol |
+|------------|-----|
+| Saldaña Lobatón Jacques | Desarrollo de la interfaz de usuario (UI), documentación y pruebas. |
+| Taipe Monge Daniela | Investigación de piezas arqueológicas, recopilación de información histórica y elaboración de contenidos. |
+| Huarancca Ayala David Asaf | Integración de modelos 3D, configuración de Vuforia e implementación de la experiencia de Realidad Aumentada. |
+| Rau Bravo Leonardo Cesar | Desarrollo principal del proyecto en Unity, programación en C#, integración de escenas, implementación de audios, paneles descriptivos, gestión del repositorio Git/GitHub y documentación técnica. |
 
 ---
 
