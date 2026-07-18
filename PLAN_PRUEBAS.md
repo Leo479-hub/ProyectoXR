@@ -254,7 +254,7 @@ Durante las pruebas la aplicación mantuvo un comportamiento estable con un rend
 ### Evidencia
 
 <p align="center">
-    <img src="Docs/capturas/FPS_Obtenidos.png" width="400">
+    <img src="Docs/capturas/FPS.png" width="400">
 </p>
 
 **Estado:** Aprobado

@@ -221,7 +221,7 @@ git clone https://github.com/Leo479-hub/ProyectoXR.git
 <h3> FPS Obtenidos </h3>
 
 <p align="center">
-  <img src="Docs/capturas/FPS_OBTENIDOS.png" width="400">
+  <img src="Docs/capturas/FPS.png" width="400">
 </p>
 
 ---
